@@ -41,6 +41,16 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    lawrencetheme: {
+        area: 'frontend',
+        name: 'Lawrence/lawrencetheme',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
